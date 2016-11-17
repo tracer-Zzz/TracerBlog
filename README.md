@@ -1,9 +1,3 @@
 # TracerBlog
-a blog system power by flask
+a blog based on Flask
 
-### Env
-- mysql
-- monogodb
-- flask
-- bootstrap
-- jquery
